@@ -1,11 +1,10 @@
 <h1 align="center">Malik Arif</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> &nbsp;·&nbsp; Lead Capture & Marketing Systems &nbsp;·&nbsp; Email Development
+  <b>Full-Stack Developer</b> &nbsp;·&nbsp; Marketing Systems and Automations &nbsp;·&nbsp; Email Development and Campaigns
 </p>
 
-<p align="center">I build the software behind lead generation.<br/>
-  Form tracking, lead routing, workflow automation, and the emails that follow up on every lead.</p>
+<p align="center">I build the software and systems behind marketing infrastructure</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/malik-arif/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -21,13 +20,13 @@
 
 ## What I work on
 
-**Lead capture infrastructure**: tracking scripts, form submission pipelines, and attribution data (UTMs, click IDs, referrers), so every lead arrives with its source attached.
+**Marketing infrastructure**: tracking scripts, form submission pipelines, and attribution data (UTMs, click IDs, referrers), so every lead arrives with its source attached.
 
 **Integrations & automation**: routing leads to webhooks, HubSpot, Slack, Google Sheets, and email, with workflow engines that retry, log, and show what happened.
 
 **Email development**: HTML email templates that render correctly across Gmail, Outlook, and mobile clients, plus the tooling to build, test, and send them.
 
-**Full-stack web apps**: Next.js, React, and TypeScript on the front, with Postgres, Prisma, and Supabase behind them.
+**Full-stack web apps**: Next.js, React, and TypeScript on the front, with Postgres, Prisma, and Supabase behind them (SDLC).
 
 <br/>
 
@@ -37,7 +36,7 @@
 
 <br/>
 
-### ⚡ Lytiq
+### Lytiq
 
 **Paste one script. Capture every lead. Route form data anywhere.**
 
@@ -63,22 +62,8 @@ A SaaS platform for website form tracking and lead management. You create a proj
 
 <br/>
 
-### ✉️ Easy Email Templates
 
-**Production HTML email templates for lifecycle journeys**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML_Email-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail_safe-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</p>
-
-A library of transactional and nurture emails: welcome series, account creation, login recapture, document requests, autopay prompts, review requests, and early-warning notices. Built for consistent rendering across email clients, with Gmail-safe image handling.
-
-[**→ Repository**](https://github.com/aarymalik/easy-email-templates)
-
-<br/>
-
-### 💬 Stack Overflow Clone
+###  Stack Overflow Clone
 
 **A full MERN-stack Q&A platform**
 
@@ -97,6 +82,20 @@ Ask questions, post answers, and vote, with JWT authentication and bcrypt passwo
 
 <br/>
 
+###  Easy Email Templates
+
+**Production HTML email templates for lifecycle journeys**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML_Email-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail_safe-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</p>
+
+A library of transactional and nurture emails: welcome series, account creation, login recapture, document requests, autopay prompts, review requests, and early-warning notices. Built for consistent rendering across email clients, with Gmail-safe image handling.
+
+[**→ Repository**](https://github.com/aarymalik/easy-email-templates)
+
+<br/>
 ---
 
 ## Stack
@@ -160,5 +159,5 @@ Ask questions, post answers, and vote, with JWT authentication and bcrypt passwo
 ---
 
 <p align="center">
-  <sub>If you're building lead capture, marketing automation, or email systems, let's connect on <a href="https://www.linkedin.com/in/malik-arif/">LinkedIn</a>.</sub>
+  <sub>If you're building Marketing infrastructure & automation, or email systems, let's connect on <a href="https://www.linkedin.com/in/malik-arif/">LinkedIn</a>.</sub>
 </p>
