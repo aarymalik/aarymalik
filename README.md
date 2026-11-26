@@ -96,6 +96,31 @@ A library of transactional and nurture emails: welcome series, account creation,
 [**→ Repository**](https://github.com/aarymalik/easy-email-templates)
 
 <br/>
+
+---
+
+## Client case studies
+
+<br/>
+
+###  Privacy-first tracking and compliance
+
+**Strict opt-in consent across a Vercel website and a Kajabi academy, without losing sales attribution**
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" />
+  <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consent_Mode_v2-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta_Pixel-0866FF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+For an online education business: a CMP through GTM with Consent Mode v2 and one shared choice across both sites, Global Privacy Control handling, GA4 and the Meta pixel gated on consent, and a serverless relay that sends academy sales to GA4 only for buyers who consented. Also click-to-load YouTube and Calendly embeds, geo-blocking for sanctioned regions, and five legal pages verified word for word against the attorney's files.
+
+[**→ Case study**](https://github.com/aarymalik/case-studies/blob/main/privacy-first-tracking-kajabi/README.md)
+
+<br/>
+
 ---
 
 ## Stack
